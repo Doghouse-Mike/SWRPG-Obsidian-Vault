@@ -7,6 +7,9 @@ The Fandom API doesn't like you grabbing their images, so they remain online onl
 Mostly created via [this script](https://github.com/Doghouse-Mike/fandom2obsidian) plus a little bit of tweaking.     
 If something is definitely broken, let me know. 
 
+Content is from the wiki's contributors, licensed under
+[CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/); each note links to its source page.
+This copy is shared under the same licence.
 
 ## If you find this useful, and can spare the cash:
 
