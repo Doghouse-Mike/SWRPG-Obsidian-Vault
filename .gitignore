@@ -1,0 +1,5 @@
+# the script's download state, only useful on your machine
+.fandom2obsidian.sqlite
+# your personal Obsidian setup (theme, plugins, open tabs)
+.obsidian/
+.trash/
