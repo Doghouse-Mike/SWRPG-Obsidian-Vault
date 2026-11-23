@@ -11,7 +11,7 @@ Content is from the wiki's contributors, licensed under
 [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/); each note links to its source page.
 This copy is shared under the same licence.
 
-## If the script or the Bases saved you time, and can spare the cash:
+## If the script or the Bases saved you time, and you can spare the cash:
 
 <a href='https://ko-fi.com/Y8Y41LC22H' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi6.png?v=6' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
